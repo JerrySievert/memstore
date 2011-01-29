@@ -1,7 +1,7 @@
 {
     "name": "memstore",
     "description": "In-memory key/value data storage with simple map",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "keywords": ["key", "value", "memory"],
     "author": "Jerry Sievert <code@legitimatesounding.com>",
     "contributors": [
