@@ -1,0 +1,32 @@
+{
+    "name": "memstore",
+    "description": "In-memory key/value data storage with simple map",
+    "version": "0.1.0",
+    "keywords": ["key", "value", "memory"],
+    "author": "Jerry Sievert <code@legitimatesounding.com>",
+    "contributors": [
+    {
+        "name": "Jerry Sievert",
+        "web": "http://legitimatesounding.com"
+    }
+    ],
+    "licenses": ["MIT"],
+    "repositories": {
+        "type": "git",
+        "url": "http://github.com/JerrySievert/memstore.git"
+    },
+    "bugs": {
+        "web": "http://github.com/JerrySievert/memstore/issues"
+    },
+    "directories": {
+        "lib": "./lib",
+        "test": "./test"
+    },
+    "os": ["linux", "darwin"],
+    "dependencies": { "vows": ">0.4.0" },
+    "engines": {
+        "node": ">0.1.90"
+    },
+    "main": "./lib/memstore"
+}
+
