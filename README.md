@@ -9,7 +9,7 @@
 
 ## Install
 
-    npm install node-date-utils
+    npm install memstore
 
 ## Synopsis
 
