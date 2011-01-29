@@ -7,6 +7,10 @@
 - Useable in the browser
 - Includes map() method
 
+## Install
+
+    npm install node-date-utils
+
 ## Synopsis
 
 When using from Node:
